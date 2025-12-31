@@ -40,20 +40,33 @@ This project focuses on **system design thinking**, not just data structures.
 ## 📁 Project Structure
 
 cache-system/
+
 │
+
 ├── cache/
 
 │ ├── Cache.h
+
 │ ├── Cache.cpp
+
 │ ├── EvictionPolicy.h
+
 │ ├── LRUCache.h
+
 │ └── LRUCache.cpp
+
 │
+
 ├── utils/
+
 │ ├── Timer.h
+
 │ └── Timer.cpp
+
 │
+
 ├── main.cpp
+
 └── README.md
 
 
